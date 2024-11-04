@@ -1,0 +1,6 @@
+..\adams_result_files\ad002c_requests.res
+1
+0
+..\data_results_extracted\ad002c_data.txt
+time.TIME in_out_speeds.hub_speed in_out_speeds.gen_speed Accelerometer_5.aX Accelerometer_5.aY Accelerometer_5.aZ Accelerometer_6.aX Accelerometer_6.aY Accelerometer_6.aZ Accelerometer_7.aX Accelerometer_7.aY Accelerometer_7.aZAccelerometer_8.aX Accelerometer_8.aY Accelerometer_8.aZ Accelerometer_9.aX Accelerometer_9.aY Accelerometer_9.aZ Accelerometer_10.aX Accelerometer_10.aY Accelerometer_10.aZ']
+1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0

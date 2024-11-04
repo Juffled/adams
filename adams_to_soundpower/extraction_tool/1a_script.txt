@@ -1,0 +1,6 @@
+..\adams_result_files\1a.res
+1
+0
+..\data_results_extracted\1a_data.txt
+time.TIME HSG_B1_B2_velocity.VX_B1 HSG_B1_B2_velocity.VY_B1 HSG_B1_B2_velocity.VX_B2 HSG_B1_B2_velocity.VY_B2 HSG_B3_B4_velocity.VX_B3 HSG_B3_B4_velocity.VY_B3 HSG_B3_B4_velocity.VX_B4 HSG_B3_B4_velocity.VY_B4 HSG_B5_B6_velocity.VX_B5 HSG_B5_B6_velocity.VY_B5 HSG_B5_B6_velocity.VX_B6 HSG_B5_B6_velocity.VY_B6 HSG_B7_velocity.VX_B7 HSG_B7_velocity.VY_B7 B1_Bearing_Forces.Radial_X B1_Bearing_Forces.Radial_Y B2_Bearing_Forces.Radial_X B2_Bearing_Forces.Radial_Y B3_Bearing_Forces.Radial_X B3_Bearing_Forces.Radial_Y B4_Bearing_Forces.Radial_X B4_Bearing_Forces.Radial_Y B5_Bearing_Forces.Radial_X B5_Bearing_Forces.Radial_Y B6_a_pos_Bearing_Forces.Radial_X B6_a_pos_Bearing_Forces.Radial_Y B6_a_neg_Bearing_Forces.Radial_X B6_a_neg_Bearing_Forces.Radial_Y B6_b_pos_Bearing_Forces.Radial_X B6_b_pos_Bearing_Forces.Radial_Y B6_b_neg_Bearing_Forces.Radial_X B6_b_neg_Bearing_Forces.Radial_Y B7_pos_Bearing_Forces.Radial_X B7_pos_Bearing_Forces.Radial_Y
+1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0

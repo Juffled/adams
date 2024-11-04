@@ -1,0 +1,4 @@
+sim_id,speed_rpm,torque_nm_1,torque_nm_2,torque_nm_3
+1a,500,20,30,40
+1b,500,20,40,60
+1c,500,20,45,65
