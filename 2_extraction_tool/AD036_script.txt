@@ -1,0 +1,6 @@
+..\1_adams_result_files\KR_000130_AD_036_S5_Cfit.res
+1
+0
+..\3_data_results_extracted\ad036_data.txt
+time.TIME rotor_spline_global_forces.Fx rotor_spline_global_forces.Fy rotor_spline_global_forces.Fz rotor_spline_relative_ground.DX rotor_spline_relative_ground.DY rotor_spline_relative_ground.DZ input_spline_relative_ground.DX input_spline_relative_ground.DY input_spline_relative_ground.DZ
+1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0
